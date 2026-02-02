@@ -1,0 +1,33 @@
+FREE WEBSITE CREATION & HOSTING LINKS (NO PAYMENT)
+
+1) GitHub Pages (Free Hosting - Best for HTML/CSS/JS)
+https://pages.github.com/
+Use for: Static websites, Google Ads landing pages
+
+2) Netlify (Free Hosting - Very Easy)
+https://www.netlify.com/
+Use for: Drag & drop deployment, fast CDN
+
+3) Google Sites (Free Website Builder)
+https://sites.google.com/
+Use for: Simple business websites (limited design)
+
+4) InfinityFree (Free cPanel Hosting)
+https://www.infinityfree.net/
+Use for: Free hosting with file manager
+
+5) 000WebHost (Free Hosting)
+https://www.000webhost.com/
+Use for: Beginner-friendly free hosting
+
+6) Canva Website Builder (Free)
+https://www.canva.com/websites/
+Use for: Simple one-page sites
+
+RECOMMENDED FOR YOU:
+✔ Netlify (fastest & easiest)
+✔ GitHub Pages (professional & reliable)
+
+NOTE:
+For Google Ads + professional printing press website,
+use Netlify or GitHub Pages with your HTML/CSS/JS files.
